@@ -10,6 +10,7 @@ Full Stack Developer
 - Vuejs
 - JavaScript
 - Adonis
+- Nodejs
 - React
 
 ## 🤓 Currently learning
