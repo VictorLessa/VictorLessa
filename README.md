@@ -20,4 +20,4 @@ Full Stack Developer
 
 ## 📫 How to find me
 
-- [Corrículo](https://www.linkedin.com/in/victorcamaralessa/)
+- [Curriculum](https://www.linkedin.com/in/victorcamaralessa/)
