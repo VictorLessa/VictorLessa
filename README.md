@@ -34,7 +34,7 @@ I have been in the technology area since 2018, passionate about the JavaScript e
             <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=victorLessa&repo=facebook-clone-react-native" />
           </td>
           <td>
-            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=victorLessa&repo=painel-front" />               
+            <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/pin?username=victorLessa&repo=parse2-kmz" />               
           </td>
       </tr>  
       <tr>
