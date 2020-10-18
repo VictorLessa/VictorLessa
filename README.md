@@ -1,16 +1,16 @@
-<h2>Prazer sou o Victor Camara Lessa 🤓</h2>
+<h2>Pleasure I'm Victor Camara Lessa 🤓</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorcamaralessa/)
 [![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:victordsgnr@gmail.com)
 
-Estou na area de tecnologia desde 2018, apaixonado pelo ecossistema JavaScript e sempre disposto a resolver problemas do mundo real com códigos
+I have been in the technology area since 2018, passionate about the JavaScript ecosystem and always willing to solve real-world problems with code
 
-- 📚 <b>Experiência com Nodejs | Vuejs | React | ReactNative | Flutter</b>
-- 🚀 <b>Atualmente trabalhando como FullStack</b>
+- 📚 <b>Experience with Nodejs | Vuejs | React | ReactNative | Flutter</b>
+- 🚀 <b>Currently working as FullStack</b>
 
 <hr>
 
-<h3>Estatísticas</h3>
+<h3>Statistics</h3>
 
 <center>
     <table align="center">
@@ -25,7 +25,7 @@ Estou na area de tecnologia desde 2018, apaixonado pelo ecossistema JavaScript e
     </table>
 </center>
 
-<h3>Estudando</h3>
+<h3>Studying</h3>
 
 <center>
     <table align="center">
