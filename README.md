@@ -1,7 +1,7 @@
 <h2>Pleasure I'm Victor Camara Lessa 🤓</h2>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victorcamaralessa/)
-[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:victordsgnr@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Mail&logoColor=white)](mailto:victordsgnr@gmail.com)
 
 I have been in the technology area since 2018, passionate about the JavaScript ecosystem and always willing to solve real-world problems with code
 
